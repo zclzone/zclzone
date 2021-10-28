@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zclzone&repo=qs-admin-vite&show_owner=true)](https://github.com/zclzone/qs-admin-vite)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zclzone&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zclzone&layout=compact)](https://github.com/zclzone)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />

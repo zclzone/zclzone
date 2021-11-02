@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zclzone&layout=compact" /></a>
 
-<a style=""><img align="right" src="https://github-readme-stats.vercel.app/api?username=zclzone&count_private=true&show_icons=true&theme=radical" /></a>
+<a><img align="right" src="https://github-readme-stats.vercel.app/api?username=zclzone&count_private=true&show_icons=true&theme=radical" /></a>
 
 
 <a href="https://github.com/zclzone/qs-admin-vite">

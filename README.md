@@ -11,18 +11,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![code](https://gitee.com/zclzone/res/raw/master/qs-zone/blob/img/20211028184756.png)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zclzone&layout=compact)](https://github.com/zclzone)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zclzone&count_private=true&show_icons=true&theme=radical)](https://github.com/zclzone)
 -->
 
 
 ## 我是大脸怪 🙀
 
-![code](https://gitee.com/zclzone/res/raw/master/qs-zone/blob/img/20211028184756.png)
-
 - 🤔 奋斗在一线的web前端程序员
 - 📧 邮箱：zclzone@outlook.com
+
+![code](https://gitee.com/zclzone/res/raw/master/qs-zone/blob/img/20211028184756.png)
+
 
 ⚡ ✨ ⚡
 

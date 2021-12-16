@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 test2
+
+![github contribution grid snake animation](https://github.com/JS-banana/JS-banana/blob/output/github-contribution-grid-snake.svg)
 -->
 
 
@@ -27,6 +29,8 @@ test2
 ⚡ ✨ ⚡
 
 ![code](https://gitee.com/zclzone/res/raw/master/qs-zone/blob/img/20211028184756.png)
+
+
 
 
 

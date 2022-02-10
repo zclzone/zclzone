@@ -112,7 +112,6 @@ JSON       1 hr 22 mins   ▊░░░░░░░░░░░░░░░░░
 
 ![github contribution grid snake animation](https://github.com/JS-banana/JS-banana/blob/output/github-contribution-grid-snake.svg) 
 
--->
 
 
 

@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/-Vue-46b882?style=flat-square&logo=vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Nginx-408e43?style=flat-square&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SqlServer-black?style=flat-square&logo=sql"/>
 </p>
 
 - 🤦‍♂️ 我叫Ronnie，或者叫我大脸怪

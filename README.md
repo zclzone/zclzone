@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/-Nginx-408e43?style=flat-square&logo=nginx&logoColor=white"/>
 </p>
 
-- 🤦‍♂️ 我叫Ronnie，或者叫我大脸怪
+- 🤦‍♂️ 我叫 Ronnie，也可以叫我大脸怪
 - 🧑‍💻 前端工程师，坐标广州
 - 📧 邮箱：zclzone@outlook.com
 - 🔗 博客：https://blog.qszone.com

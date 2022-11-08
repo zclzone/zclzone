@@ -12,7 +12,7 @@
 </p>
 
 - 🤦‍♂️ 我叫Ronnie，或者叫我大脸怪
-- 🧑‍💻 前端工程师，新生代农名工,坐标广州
+- 🧑‍💻 前端工程师，坐标广州
 - 📧 邮箱：zclzone@outlook.com
 - 🔗 博客：https://blog.qszone.com
 - 🔗 掘金：https://juejin.cn/user/1961184475483255

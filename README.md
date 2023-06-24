@@ -1,7 +1,7 @@
 ## 💯 孤光自照，肝胆皆冰雪~
 
 
- <img align='right' width='50%' height='200' src='https://assets.qszone.com/images/logo_qs.svg' />
+ <img align='right' width='50%' height='180' src='https://assets.qszone.com/images/logo_qs.svg' />
 
 
 <p align='left'>

@@ -1,7 +1,5 @@
 ## 💯 孤光自照，肝胆皆冰雪~
 
-<img align='right' width='50%' height='180' src='https://assets.qszone.com/images/logo_qs.svg' />
-
 <p align='left'>
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat-square&logo=typescript&logoColor=white"/>

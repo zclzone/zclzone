@@ -10,10 +10,9 @@
 
 
 
-- 🤦‍♂️ 我叫 Ronnie，也可以叫我大脸怪
-- 🧑‍💻 一枚前端开发工程师，坐标广州
+- 🤦‍♂️ 我是大脸怪
+- 🧑‍💻 一枚前端开发工程师，base广州
 - 📧 邮箱：zclzone@outlook.com
-- 🔗 博客：https://blog.qszone.com
 - 🔗 掘金：https://juejin.cn/user/1961184475483255
 
  
